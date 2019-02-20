@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/strava",
+    "name": "jackfrost/strava",
     "description": "Strava OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
